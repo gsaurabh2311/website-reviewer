@@ -13,7 +13,7 @@ export function Features() {
         <Image
           src={FeatureFirst}
           alt="Feature 1 image"
-          className="hidden w-1/2 sm:block"
+          className="hidden w-1/2 sm:block px-[20px]"
           width={826}
           height={587}
         />
@@ -27,7 +27,7 @@ export function Features() {
           <Image
             src={FeatureFirst}
             alt="feature 1 image"
-            className="pt-[24px] sm:hidden"
+            className="pt-[24px] sm:hidden px-[20px]"
           />
           <p className="py-[24px] text-[#36485C] lg:text-[22px] lg:leading-[28px] lg:font-light">
             Stay on top of things and revamp your work process with our
@@ -69,7 +69,7 @@ export function Features() {
         <Image
           src={FeatureSecond}
           alt="Feature 1 image"
-          className="hidden w-1/2 sm:block"
+          className="hidden w-1/2 sm:block px-[20px]"
           width={826}
           height={587}
         />
@@ -83,7 +83,7 @@ export function Features() {
           <Image
             src={FeatureSecond}
             alt="feature 1 image"
-            className="pt-[24px] sm:hidden"
+            className="pt-[24px] sm:hidden px-[20px]"
           />
           <p className="py-[24px] text-[#36485C] lg:text-[22px] lg:leading-[28px] lg:font-light">
             Stay on top of things and revamp your work process with our
@@ -125,7 +125,7 @@ export function Features() {
         <Image
           src={FeatureThird}
           alt="Feature 1 image"
-          className="hidden w-1/2 sm:block"
+          className="hidden w-1/2 sm:block px-[20px]"
           width={826}
           height={587}
         />
@@ -139,7 +139,7 @@ export function Features() {
           <Image
             src={FeatureThird}
             alt="feature 1 image"
-            className="pt-[24px] sm:hidden"
+            className="pt-[24px] sm:hidden px-[20px]"
           />
           <p className="py-[24px] text-[#36485C] lg:text-[22px] lg:leading-[28px] lg:font-light">
             Stay on top of things and revamp your work process with our
