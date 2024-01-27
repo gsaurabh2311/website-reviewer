@@ -13,9 +13,8 @@ export function Features() {
         <Image
           src={FeatureFirst}
           alt="Feature 1 image"
-          className="hidden w-1/2 sm:block px-[20px]"
-          width={826}
-          height={587}
+          className="hidden w-1/2 sm:block"
+      
         />
         <div className="sm:w-1/2 lg:py-[56px] lg:pr-[56px]">
           <h3 className="font-medium text-[#0085FF] lg:text-[18px] ">
@@ -27,7 +26,7 @@ export function Features() {
           <Image
             src={FeatureFirst}
             alt="feature 1 image"
-            className="pt-[24px] sm:hidden px-[20px]"
+            className="pt-[24px] sm:hidden"
           />
           <p className="py-[24px] text-[#36485C] lg:text-[22px] lg:leading-[28px] lg:font-light">
             Stay on top of things and revamp your work process with our
@@ -69,9 +68,7 @@ export function Features() {
         <Image
           src={FeatureSecond}
           alt="Feature 1 image"
-          className="hidden w-1/2 sm:block px-[20px]"
-          width={826}
-          height={587}
+          className="hidden w-1/2 sm:block"
         />
         <div className="sm:w-1/2 lg:py-[56px] lg:pl-[56px]">
           <h3 className="font-medium text-[#00A424] lg:text-[18px] ">
@@ -83,7 +80,7 @@ export function Features() {
           <Image
             src={FeatureSecond}
             alt="feature 1 image"
-            className="pt-[24px] sm:hidden px-[20px]"
+            className="pt-[24px] sm:hidden"
           />
           <p className="py-[24px] text-[#36485C] lg:text-[22px] lg:leading-[28px] lg:font-light">
             Stay on top of things and revamp your work process with our
@@ -125,9 +122,7 @@ export function Features() {
         <Image
           src={FeatureThird}
           alt="Feature 1 image"
-          className="hidden w-1/2 sm:block px-[20px]"
-          width={826}
-          height={587}
+          className="hidden w-1/2 sm:block"
         />
         <div className="sm:w-1/2 lg:py-[56px] lg:pr-[56px]">
           <h3 className="font-medium text-[#EB2891] lg:text-[18px] ">
@@ -139,7 +134,7 @@ export function Features() {
           <Image
             src={FeatureThird}
             alt="feature 1 image"
-            className="pt-[24px] sm:hidden px-[20px]"
+            className="pt-[24px] sm:hidden"
           />
           <p className="py-[24px] text-[#36485C] lg:text-[22px] lg:leading-[28px] lg:font-light">
             Stay on top of things and revamp your work process with our
