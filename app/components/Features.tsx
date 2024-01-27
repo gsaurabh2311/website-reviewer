@@ -70,6 +70,8 @@ export function Features() {
           src={FeatureSecond}
           alt="Feature 1 image"
           className="hidden w-1/2 sm:block"
+          width={826}
+          height={587}
         />
         <div className="sm:w-1/2 lg:py-[56px] lg:pl-[56px]">
           <h3 className="font-medium text-[#00A424] lg:text-[18px] ">
@@ -124,6 +126,8 @@ export function Features() {
           src={FeatureThird}
           alt="Feature 1 image"
           className="hidden w-1/2 sm:block"
+          width={826}
+          height={587}
         />
         <div className="sm:w-1/2 lg:py-[56px] lg:pr-[56px]">
           <h3 className="font-medium text-[#EB2891] lg:text-[18px] ">
